@@ -22,7 +22,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'YongXiaoo', // Usually your GitHub org/user name.
   projectName: 'YongXiaoo.github.io', // Usually your repo name.
-  deploymentBranch: 'develop', // 部署分支，该分支会发布到 GitHub Page
+  deploymentBranch: 'main', // 部署分支，该分支会发布到 GitHub Page
 
   trailingSlash: false,
 

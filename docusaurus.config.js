@@ -126,7 +126,7 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'GitHub',
+                label: 'm码云',
                 href: 'https://github.com/facebook/docusaurus',
               },
             ],
